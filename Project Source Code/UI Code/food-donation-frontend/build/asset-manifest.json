@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b444b2.css",
+    "main.js": "/static/js/main.a495c7f3.js",
+    "static/js/787.7806f158.chunk.js": "/static/js/787.7806f158.chunk.js",
+    "static/media/Food-Handout.jpg": "/static/media/Food-Handout.3962b549c0061d091d2d.jpg",
+    "static/media/Girl-Food.png": "/static/media/Girl-Food.12fa4a0bd93867318852.png",
+    "static/media/family.png": "/static/media/family.d8df2f609c42e91d00b4.png",
+    "static/media/1.jpg": "/static/media/1.c2b17cbd31e21cf8c57e.jpg",
+    "static/media/icon.jpg": "/static/media/icon.ca7b284a7328495e2e55.jpg",
+    "static/media/ball.web.svg": "/static/media/ball.web.bc933a33226a2d0b2806.svg",
+    "static/media/loading.svg": "/static/media/loading.0db562441739aa54c303e577d6cc445d.svg",
+    "index.html": "/index.html",
+    "main.93b444b2.css.map": "/static/css/main.93b444b2.css.map",
+    "main.a495c7f3.js.map": "/static/js/main.a495c7f3.js.map",
+    "787.7806f158.chunk.js.map": "/static/js/787.7806f158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b444b2.css",
+    "static/js/main.a495c7f3.js"
+  ]
+}
